@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/axelclark/hello_jekyll/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/axelclark/hello_jekyll/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.  This project uses [Just The Docs](https://github.com/pmarsceill/just-the-docs).
 
 ### Support or Contact
 
