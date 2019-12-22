@@ -1,5 +1,5 @@
 title: "Hello Jekyll"
-remote_theme: pmarsceill/just-the-docs
+remote_theme: axelclark/just-the-docs
 
 search_enabled: true
 # Enable support for hyphenated search words:
